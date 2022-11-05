@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marqueswsm/poc-blockchain/issues"
   },
-  "homepage": "https://github.com/marqueswsm/poc-blockchain#readme"
+  "homepage": "https://github.com/marqueswsm/poc-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
