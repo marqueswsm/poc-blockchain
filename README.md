@@ -1,6 +1,6 @@
 # Blockchain
 
-It is a simple blockchain proof of concept. I am creating this project using [this amazing videos as a reference](https://www.youtube.com/watch?v=zVqczFZr124).
+It is a simple blockchain proof of concept. I am creating this project using [these amazing videos as a reference](https://www.youtube.com/watch?v=zVqczFZr124).
 
 [In developement] This project still in developement, but I will add some instructions about how to use the app.
 
