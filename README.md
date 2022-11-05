@@ -1,5 +1,20 @@
 # Blockchain
 
-It is a simple blockchain proof of concept. I am creating this project just because it is very cool and if would like to contribute you can send a pull request or create a fork. 
+It is a simple blockchain proof of concept. I am creating this project using (this amazing videos as a reference)[https://www.youtube.com/watch?v=zVqczFZr124&t=4s].
 
 [In developement] This project still in developement, but I will add some instructions about how to use the app.
+
+You can create a new blockchain:
+```
+const coin = new Blockchain();
+```
+
+And than adding a new block to the created blockchain:
+```
+coin.addBlock(new Block(1, '05/11/2022', { amunt: 100.00 }));
+```
+
+You can also check if the blockchain is valid calling the funcion checkChain: 
+```
+coin.checkChain() // The return will be true or false
+```
