@@ -14,7 +14,7 @@ And than adding a new block to the created blockchain:
 coin.addBlock(new Block(1, '05/11/2022', { amunt: 100.00 }));
 ```
 
-You can also check if the blockchain is valid calling the funcion checkChain: 
+You can also check if the blockchain is valid calling the function checkChain: 
 ```
 coin.checkChain() // The return will be true or false
 ```
